@@ -22,8 +22,5 @@
    <a href="https://www.linkedin.com/in/isabelrebollo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<picture>
- 
-  <source media="(prefers-color-scheme: light)" srcset="isarebollo-snake.svg" />
-  <img alt="github-snake" src="isarebollo-snake.svg" />
-</picture>
+##
+  ![Snake animation](https://github.com/isarebollo/isarebollo/blob/output/github-contribution-grid-snake.svg)
