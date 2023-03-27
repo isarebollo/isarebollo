@@ -23,7 +23,7 @@
 </div>
 
 ##
-  ![Snake animation]([https://github.com/isarebollo/isarebollo/blob/output/github-contribution-grid-snake.svg](https://platane.github.io/snk/))
+  ![Snake animation](https://platane.github.io/snk/)
   
 
 
