@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Isabel Rebollo</h1>
+
+💻 Desarrolladora Full-Stack  - 4geeks Academy 
+👩‍🏫 Técnico en Farmacia y Parafarmacia - Ciclo Formativo Grado Medio 
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/isabelrebollo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isabelrebollo" height="30" width="40" /></a>
