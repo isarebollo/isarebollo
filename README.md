@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Isabel Rebollo</h1>
+<ul>
+ <li>💻 Desarrolladora Full-Stack  - 4geeks Academy </li>
+  <li>👩‍🏫 Técnico en Farmacia y Parafarmacia - Ciclo Formativo Grado Medio </li>
+</ul>
 
-💻 Desarrolladora Full-Stack  - 4geeks Academy 
-👩‍🏫 Técnico en Farmacia y Parafarmacia - Ciclo Formativo Grado Medio 
+
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
